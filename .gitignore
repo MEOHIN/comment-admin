@@ -3,6 +3,19 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build
 !**/src/test/**/build
+/.idea/**
+/.idea/caches/build_file_checksums.ser
+/.idea/libraries
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/workspace.xml
+/build
+/captures
+/gradle/**
+/local.properties
+/release/*.apk
+gradlew
+gradlew.bat
 
 /src/main/generated/
 generated
